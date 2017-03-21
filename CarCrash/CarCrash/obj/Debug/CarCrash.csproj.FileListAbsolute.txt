@@ -1,0 +1,5 @@
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\CarCrash\CarCrash\obj\Debug\CarCrash.csprojResolveAssemblyReference.cache
+C:\Users\Emre\FiveReborn\TruckerServer\resources\carcrash\carcrash.net.dll
+C:\Users\Emre\FiveReborn\TruckerServer\resources\carcrash\carcrash.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\CarCrash\CarCrash\obj\Debug\carcrash.net.dll
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\CarCrash\CarCrash\obj\Debug\carcrash.net.pdb
