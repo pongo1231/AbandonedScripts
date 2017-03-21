@@ -1,0 +1,5 @@
+C:\Users\Emre\FiveReborn\TruckerServer\resources\trucker\trucker.net.dll
+C:\Users\Emre\FiveReborn\TruckerServer\resources\trucker\trucker.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\TruckerJob\obj\Debug\TruckerJob.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\TruckerJob\obj\Debug\trucker.net.dll
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\TruckerJob\obj\Debug\trucker.net.pdb

@@ -1,0 +1,12 @@
+c:\users\emre\FileZilla FTP Client\cfx-server\resources\missions\missions.net.dll
+c:\users\emre\FileZilla FTP Client\cfx-server\resources\missions\missions.net.pdb
+c:\users\emre\documents\visual studio 2015\Projects\missions.net\missions.net\obj\Debug\missions.net.dll
+c:\users\emre\documents\visual studio 2015\Projects\missions.net\missions.net\obj\Debug\missions.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\missions.net\missions.net\obj\Debug\missions.net.csprojResolveAssemblyReference.cache
+C:\Users\Emre\FileZilla FTP Client\TestServer\resources\missions\missions.net.dll
+C:\Users\Emre\FileZilla FTP Client\TestServer\resources\missions\missions.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\BackupCalls\missions.net\obj\Debug\missions.net.csprojResolveAssemblyReference.cache
+C:\Users\Emre\FileZilla FTP Client\TestServer\resources\backupcall\backupcall.net.dll
+C:\Users\Emre\FileZilla FTP Client\TestServer\resources\backupcall\backupcall.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\BackupCalls\missions.net\obj\Debug\backupcall.net.dll
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\BackupCalls\missions.net\obj\Debug\backupcall.net.pdb

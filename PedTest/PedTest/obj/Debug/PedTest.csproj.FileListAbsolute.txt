@@ -1,0 +1,7 @@
+c:\users\emre\FiveReborn\TestingServer\resources\a\A.net.dll
+c:\users\emre\FiveReborn\TestingServer\resources\a\A.net.pdb
+c:\users\emre\documents\visual studio 2015\Projects\PedTest\PedTest\obj\Debug\PedTest.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2015\Projects\PedTest\PedTest\obj\Debug\A.net.dll
+c:\users\emre\documents\visual studio 2015\Projects\PedTest\PedTest\obj\Debug\A.net.pdb
+C:\Users\Emre\FiveReborn\TestingServer\resources\test\A.net.dll
+C:\Users\Emre\FiveReborn\TestingServer\resources\test\A.net.pdb

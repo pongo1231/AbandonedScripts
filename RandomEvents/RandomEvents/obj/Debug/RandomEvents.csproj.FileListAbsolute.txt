@@ -1,0 +1,7 @@
+c:\users\emre\FileZilla FTP Client\TestServer\resources\randomevents\randomevents.net.dll
+c:\users\emre\FileZilla FTP Client\TestServer\resources\randomevents\randomevents.net.pdb
+c:\users\emre\documents\visual studio 2015\Projects\RandomEvents\RandomEvents\obj\Debug\randomevents.net.dll
+c:\users\emre\documents\visual studio 2015\Projects\RandomEvents\RandomEvents\obj\Debug\randomevents.net.pdb
+C:\Users\Emre\Documents\Visual Studio 2015\Projects\RandomEvents\RandomEvents\obj\Debug\RandomEvents.csprojResolveAssemblyReference.cache
+C:\Users\Emre\FiveReborn\cfx-server\resources\randomevents\randomevents.net.dll
+C:\Users\Emre\FiveReborn\cfx-server\resources\randomevents\randomevents.net.pdb
